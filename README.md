@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notitle12&theme=nord_dark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=notitle1215)](https://solved.ac/notitle1215/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=huisu)](https://solved.ac/huisu/)
 
 <!--
 **notitle12/notitle12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
